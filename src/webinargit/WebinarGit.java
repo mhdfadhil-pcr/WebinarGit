@@ -11,9 +11,13 @@ package webinargit;
  */
 public class WebinarGit {
 
-    /**
-     * @param args the command line arguments
-     */
+    public int tambah(int a, int b) {
+        return a + b; 
+    }
+    public int kurang(int a, int b) {
+        return a - b; 
+    }
+    
     public static void main(String[] args) {
         // TODO code application logic here
     }
