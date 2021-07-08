@@ -20,6 +20,8 @@ public class WebinarGit {
     
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("perubahan ini hanya terjadi dibranch branch2");
+        System.out.println("baris baru");
     }
     
 }
